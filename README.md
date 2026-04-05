@@ -85,7 +85,10 @@ Created a User Guide to explain dashboard usage.
 🔹~70% of revenue is generated through retailers like Amazon, Flipkart, Vivek, etc., emphasizing the importance of channel strategy.
 ✅ Recommendation: Diversify channels by boosting own e-store presence to reduce over-dependence on external retailers.
 
-Dashboards Preview
+
+**Dashboards Preview**
+
+
 Home Dashboard
 <img width="1320" height="734" alt="image" src="https://github.com/user-attachments/assets/76b86b8e-0f41-4503-9b22-273bc860abb9" />
 
